@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="RussianRevolver:jar">
+    <output-path>D:/Intelliji IDEA/Project java</output-path>
+    <root id="archive" name="RussianRevolver.jar">
+      <element id="module-output" name="RussianRevolver" />
+    </root>
+  </artifact>
+</component>
